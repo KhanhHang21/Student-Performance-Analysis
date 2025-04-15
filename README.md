@@ -40,7 +40,7 @@ This project investigates how student background, parental involvement, study ha
 
 ```bash
 ├── data/
-│   └── student_performance_data.csv        # Raw dataset
+│   └── student_performance_final.csv        # Raw dataset
 ├── student_performance.ipynb               # EDA and statistical analysis
 ├── predictive_modelling.ipynb              # Regression and modeling analysis
 ├── README.md
